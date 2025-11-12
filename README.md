@@ -1,2 +1,2 @@
-# BIT240199_BT_CSharp_QLTV
-Bài tập Quản lý thư viện môn Lập trình C#
+# BIT240199_BT_CSharp_QLNV
+Bài tập Quản lý nhân viên; môn Lập trình C#
