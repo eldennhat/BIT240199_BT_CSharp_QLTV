@@ -1,0 +1,17 @@
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\bin\Debug\net9.0-windows\QuanLyNhanVien.exe
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\bin\Debug\net9.0-windows\QuanLyNhanVien.deps.json
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\bin\Debug\net9.0-windows\QuanLyNhanVien.runtimeconfig.json
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\bin\Debug\net9.0-windows\QuanLyNhanVien.dll
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\bin\Debug\net9.0-windows\QuanLyNhanVien.pdb
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.AssemblyInfo.cs
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.dll
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\refint\QuanLyNhanVien.dll
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.pdb
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.genruntimeconfig.cache
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\ref\QuanLyNhanVien.dll
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.MainQuanLy.resources
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\CMC\C# Programming\Projects\QuanLyNhanVien\obj\Debug\net9.0-windows\QuanLyNhanVien.AddOrEditForm.resources
